@@ -75,4 +75,5 @@ public class Curso {
     public void setActividadesSumativas(List<ActividadSumativa> actividadesSumativas) {
         this.actividadesSumativas = actividadesSumativas;
     }
+    
 }

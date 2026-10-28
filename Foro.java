@@ -9,6 +9,7 @@ public class Foro {
 
     public void setId(String id) {
         this.id = id;
+        
     }
 
     public String getTematica() {
